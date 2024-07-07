@@ -4,4 +4,8 @@ COMO RODAR O PROJETO
 
 > pip install -r requeriment.txt
 
+> cd mysite
+
+> py manage.py migrate
+
 > python manage.py runserver
